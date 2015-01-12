@@ -1,1 +1,1 @@
-Prova uitilizzo di Autometed Builds
+Prova utilizzo di Automated Builds
